@@ -7,7 +7,7 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor e Designer focado em **Arquitetura de Componentes** e **UI/UX de Alta Fidelidade**. Minha missão é transformar problemas de negócio em sistemas escaláveis e interfaces que respiram consistência. Atualmente liderando a **MR Tech** e desenvolvendo o futuro do setor alimentício com o SaaS **Netto Pastelaria**.
+Desenvolvedor e Designer focado em **Arquitetura de Componentes** e **UI/UX de Alta Fidelidade**. Minha missão é transformar problemas de negócio em sistemas escaláveis e interfaces que respiram consistência. Atualmente liderando a **MR Tech** e desenvolvendo o futuro do setor alimentício com o SaaS **MR-tech**.
 
 * 🎓 **Sistemas de Informação** na FATEF | Técnico em Informática (Fortec).
 * 🛠️ **Especialidade:** Design Systems, Atomic Design e TypeScript (Strict Mode).
@@ -62,8 +62,6 @@ Sistema de gestão e PDV para o setor de food-service construído com foco em pe
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphaelbernardolima/raphaelbernardolima/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphaelbernardolima/raphaelbernardolima/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/raphaelbernardolima/raphaelbernardolima/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 

@@ -55,7 +55,7 @@ Sistema de gestão e PDV para o setor de food-service construído com foco em pe
 ### 📊 Estatísticas de Combate
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelbernardolima&show_icons=true&theme=dracula&hide_border=false&border_radius=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelbernardolima&show_icons=true&theme=dracula&count_private=true" />
   <img src="https://streak-stats.demolab.com?user=raphaelbernardolima&theme=dracula&hide_border=false&border_radius=8" height="170" />
 </div>
 

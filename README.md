@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🥋 Raphael Bernardo | Design Engineer</h1>
-  <p><i>"A técnica apurada é o que sustenta o nocaute visual."</i></p>
+  <p><i>"Se você conhece o caminho amplamente, você o verá em todas as coisas."</i></p>
 </div>
 
 ---

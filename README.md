@@ -7,11 +7,10 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor e Designer focado em **Arquitetura de Componentes** e **UI/UX de Alta Fidelidade**. Minha missão é transformar problemas de negócio em sistemas escaláveis e interfaces que respiram consistência. Atualmente liderando a **MR Tech** e desenvolvendo o futuro do setor alimentício com o SaaS **MR-tech**.
+Desenvolvedor e Designer focado em **Arquitetura de Componentes** e **UI/UX de Alta Fidelidade**. Minha missão é transformar problemas de negócio em sistemas escaláveis e interfaces que respiram consistência.
 
 * 🎓 **Sistemas de Informação** na FATEF | Técnico em Informática (Fortec).
-* 🛠️ **Especialidade:** Design Systems, Atomic Design e TypeScript (Strict Mode).
-* 🥊 **Disciplina:** 7 anos de Muay Thai aplicados à resiliência e foco no código.
+* 🛠️ **Especialidade:** Design Systems, Atomic Design, design thiking e desenvolvimento front-end.
 * ⚡ **Mindset:** Se não for reutilizável, escalável e documentado, não está pronto.
 
 ---

@@ -43,16 +43,16 @@ Desenvolvedor e Designer focado em **Arquitetura de Componentes** e **UI/UX de A
 
 ---
 
-### 📦 Projeto em Destaque: Netto Pastelaria (SaaS)
+### 📦 Projeto em Destaque:Cloudnine Doceria
 
 Sistema de gestão e PDV para o setor de food-service construído com foco em performance e experiência do usuário.
-- **Engenharia:** Design System próprio, Componentes Universais via Slots/Children.
+- **Engenharia:** Design System MUI, Banco de dados blindado no supabase.
 - **Tech Stack:** React, TypeScript, Supabase (PostgreSQL).
 - **Diferencial:** Estrutura Atomic Design blindada contra débito técnico.
 
 ---
 
-### 📊 Estatísticas de Combate
+### 📊 Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raphaelbernardolima&show_icons=true&theme=dracula&count_private=true" />

@@ -42,7 +42,8 @@ Desenvolvedor e Designer focado em **Arquitetura de Componentes** e **UI/UX de A
 
 ---
 
-### 📦 Projeto em Destaque:Cloudnine Doceria
+### 📦 Projeto em Destaque:<br>
+<h3>Cloudnine Doceria</h3>
 
 Sistema de gestão e PDV para o setor de food-service construído com foco em performance e experiência do usuário.
 - **Engenharia:** Design System MUI, Banco de dados blindado no supabase.

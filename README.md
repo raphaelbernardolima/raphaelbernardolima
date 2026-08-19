@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🥋 Raphael Bernardo | Design Engineer</h1>
-  <p><i>"Se você conhece o caminho amplamente, você o verá em todas as coisas."</i></p>
+  <p><i>"Se você conhece o caminho amplamente, você o verá em todas as coisas. - Musashi Myamoto"</i></p>
 </div>
 
 ---
@@ -15,7 +15,7 @@ Desenvolvedor e Designer focado em **Arquitetura de Componentes** e **UI/UX de A
 
 ---
 
-### 🏗️ My Combat Gear (Stack)
+### 🏗️ minha Stack
 
 <table align="center">
   <tr>
